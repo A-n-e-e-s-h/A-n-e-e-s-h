@@ -49,7 +49,7 @@ I enjoy turning raw data into meaningful insights through Python, SQL, Excel and
 ## Connect with me
 
 LinkedIn:
-linkedin.com/in/mohammed-aneesh
+www.linkedin.com/in/mohammed-aneesh
 
 Email:
 mohammedaneesh49@gmail.com
