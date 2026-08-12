@@ -1,7 +1,7 @@
 # Hi, I'm Mohammed Aneesh 👋
 
 🎓 MCA Graduate
-📊 Aspiring Data Analyst
+📊 Data Analyst Intern
 📍 Kerala, India
 
 I enjoy turning raw data into meaningful insights through Python, SQL, Excel and Tableau.
@@ -53,3 +53,6 @@ www.linkedin.com/in/mohammed-aneesh
 
 Email:
 mohammedaneesh49@gmail.com
+
+Portfolio:
+https://mohammedaneeshportfolio.netlify.app
