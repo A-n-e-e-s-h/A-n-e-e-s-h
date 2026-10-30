@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Aneesh 👋
 
-🎓 MCA Graduate | 💻 Data Analyst Intern | 📍 Kerala, India
+🎓 MCA Graduate | 📊 Data Analyst Intern | 📍 Kerala, India
 
 I am an MCA graduate with an interest in building practical technology solutions and solving real-world problems through programming.
 
