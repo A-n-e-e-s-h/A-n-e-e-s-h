@@ -79,4 +79,4 @@ I am always interested in connecting with fellow developers, technology enthusia
 
 ---
 
-⭐ *Always learning, building, and exploring new possibilities in technology.*
+⭐ *Always learning, building and exploring new possibilities in technology.*
