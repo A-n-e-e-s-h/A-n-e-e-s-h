@@ -12,12 +12,16 @@ I am passionate about expanding my technical skills, building meaningful project
 
 **Programming Languages**
 - Python
+- C++
 
 **Databases**
 - SQL
 - SQLite
 
 **Web Development**
+- HTML
+- CSS
+- JavaScript
 - Flask
 
 **Data & Analytics**
