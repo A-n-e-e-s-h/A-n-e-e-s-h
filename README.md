@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Aneesh 👋
 
-💻 Software Developer | 🎓 MCA Graduate | 📍 Kerala, India
+💻 Aspiring Software Engineer | 🎓 MCA Graduate | 📍 Kerala, India
 
 I am an MCA graduate passionate about software development, building practical applications and solving real-world problems through technology.
 
