@@ -58,7 +58,7 @@ Developed a computer vision-based application to monitor student engagement and 
 
 **Technologies:** Python | SQL | Machine Learning | Data Processing
 
-Developed an athlete performance analytics application to explore workload, recovery patterns, and potential injury risk indicators.
+Developed an athlete performance analytics application to explore workload, recovery patterns and potential injury risk indicators.
 
 - Implemented data preprocessing and feature engineering.
 - Applied machine learning techniques for injury risk estimation.
@@ -98,7 +98,7 @@ Built a web application that classifies fruit images and estimates calorie conte
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with developers, collaborating on projects, and exploring opportunities in software development.
+I am always open to connecting with developers, collaborating on projects and exploring opportunities in software development.
 
 - **LinkedIn:** [Mohammed Aneesh](https://www.linkedin.com/in/mohammed-aneesh)
 - **Email:** [mohammedaneesh49@gmail.com](mailto:mohammedaneesh49@gmail.com)
@@ -106,4 +106,4 @@ I'm always open to connecting with developers, collaborating on projects, and ex
 
 ---
 
-⭐ Always learning, building, and improving one project at a time.
+⭐ Always learning, building and improving one project at a time.
