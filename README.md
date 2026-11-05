@@ -38,7 +38,6 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
 - TensorFlow
 - Scikit-learn
 - OpenCV
-- NumPy
 - Computer Vision
 - Machine Learning
 
