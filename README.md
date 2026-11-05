@@ -1,12 +1,12 @@
 # Hi, I'm Mohammed Aneesh 👋
 
-🎓 MCA Graduate | 📊 Data Analyst Intern | 📍 Kerala, India
+💻 Software Developer | 🎓 MCA Graduate | 📍 Kerala, India
 
-I am an MCA graduate with an interest in building practical technology solutions and solving real-world problems through programming.
+I am an MCA graduate passionate about software development, building practical applications and solving real-world problems through technology.
 
-I enjoy exploring different areas of technology, developing applications, working with databases, analyzing data and continuously learning new tools and technologies.
+I primarily work with Python and have experience developing web applications, integrating databases, implementing application logic and working with AI and machine learning technologies.
 
-I am passionate about expanding my technical skills, building meaningful projects and growing as a technology professional.
+I enjoy turning ideas into functional applications, exploring new technologies, writing efficient code and continuously improving my problem-solving and software engineering skills.
 
 ## 🛠️ Technical Skills
 
@@ -14,68 +14,92 @@ I am passionate about expanding my technical skills, building meaningful project
 - Python
 - C++
 
+**Software Development**
+- Object-Oriented Programming (OOP)
+- Problem Solving
+- Application Development
+- Backend Development
+
+**Web Development**
+- Flask
+- HTML
+- CSS
+- JavaScript
+
 **Databases**
 - SQL
 - SQLite
 
-**Web Development**
-- HTML
-- CSS
-- JavaScript
-- Flask
-
-**Data & Analytics**
-- Excel
-- Tableau
-- Data Cleaning
-- Data Visualization
-- Statistical Analysis
-
-**Machine Learning & AI**
-- Scikit-learn
-- TensorFlow
-
-**Tools & Platforms**
+**Tools & Technologies**
 - Git
 - GitHub
 
+**AI & Machine Learning**
+- TensorFlow
+- Scikit-learn
+- OpenCV
+- NumPy
+- Computer Vision
+- Machine Learning
+
 ## 🚀 Featured Projects
 
-### 📈 Student Distraction Analysis System
-**Technologies:** Python | SQLite | Flask | Data Analytics
+### 🧠 [FocusSense – Student Engagement Monitoring System](https://github.com/A-n-e-e-s-h/FocusSense)
 
-A project focused on analyzing student distraction patterns using data and a web-based application.
+**Technologies:** Python | Flask | OpenCV | MediaPipe | SQLite
 
-### 🏃 Athlete Injury Risk Analytics
-**Technologies:** Python | SQL | Scikit-learn | Dashboard | Reporting
+Developed a computer vision-based application to monitor student engagement and analyze distraction patterns.
 
-A project that explores athlete-related data to analyze injury risk and present insights through reporting and visualization.
+- Implemented facial landmark detection and behavioral analysis.
+- Processed visual data to identify attention and distraction patterns.
+- Integrated SQLite for storing session records and engagement metrics.
+- Developed analytical visualizations and reporting features.
 
-### 🍎 Fruit Classification & Nutrition Analysis
-**Technologies:** Python | TensorFlow | Flask
+### 🏃 [PlayFit FC – Athlete Performance & Injury Risk Analytics](https://github.com/A-n-e-e-s-h/PlayFit-FC)
 
-A machine learning-based project combining fruit classification with nutritional analysis.
+**Technologies:** Python | SQL | Machine Learning | Data Processing
+
+Developed an athlete performance analytics application to explore workload, recovery patterns, and potential injury risk indicators.
+
+- Implemented data preprocessing and feature engineering.
+- Applied machine learning techniques for injury risk estimation.
+- Analyzed athlete workload and recovery indicators.
+- Developed data visualization and reporting capabilities.
+
+### 🍎 [Fruit Classifier – Fruit Classification & Nutrition Analysis](https://github.com/A-n-e-e-s-h/Fruit-Classifier)
+
+**Technologies:** Python | Flask | TensorFlow | Keras | MobileNetV2
+
+Built a web application that classifies fruit images and estimates calorie content based on fruit weight.
+
+- Integrated a MobileNetV2-based deep learning model.
+- Implemented image upload and preprocessing functionality.
+- Integrated model inference into a Flask backend.
+- Developed calorie estimation logic using nutritional reference values.
 
 ## 📚 Currently Learning
 
-- Power BI
-- Pandas & NumPy
+- Data Structures and Algorithms
+- Advanced Python Programming
+- Object-Oriented Programming
+- Backend Development
+- REST API Development
 - Advanced SQL
-- Machine Learning
-- Expanding my software development and problem-solving skills
+- Software Engineering Principles
 
 ## 🎯 Areas of Interest
 
-- Software Development
+- Software Engineering
 - Python Development
+- Backend Development
 - Web Application Development
-- Data Analytics & Engineering
+- Database Management
+- API Development
 - Artificial Intelligence & Machine Learning
-- Problem Solving
 
 ## 🤝 Let's Connect
 
-I am always interested in connecting with fellow developers, technology enthusiasts and professionals.
+I'm always open to connecting with developers, collaborating on projects, and exploring opportunities in software development.
 
 - **LinkedIn:** [Mohammed Aneesh](https://www.linkedin.com/in/mohammed-aneesh)
 - **Email:** [mohammedaneesh49@gmail.com](mailto:mohammedaneesh49@gmail.com)
@@ -83,4 +107,4 @@ I am always interested in connecting with fellow developers, technology enthusia
 
 ---
 
-⭐ *Always learning, building and exploring new possibilities in technology.*
+⭐ Always learning, building, and improving one project at a time.
