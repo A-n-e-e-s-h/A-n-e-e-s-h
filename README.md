@@ -105,5 +105,5 @@ I am always open to connecting with developers, collaborating on projects and ex
 - **Portfolio:** [Visit My Portfolio](https://mohammedaneeshportfolio.netlify.app)
 
 ---
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ⭐ Always learning, building and improving one project at a time.
